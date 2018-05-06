@@ -1,9 +1,7 @@
 **The Case for Event-driven Architecture**
 
 Robert Koch, Enterprise Architect
-
-25 April 2018
-
+4 May 2018
 Whitepaper
 
 Business is basically a bunch of events that we strive to organize from
