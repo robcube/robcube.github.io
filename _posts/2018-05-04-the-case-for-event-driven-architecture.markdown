@@ -56,6 +56,8 @@ wrong and upend the rest of the workflow. Here is an example of a
 situation where the data might not be present causing issues down the
 road, requiring immediate manual intervention.
 
+![batch processing with errors]({{ "/assets/eda-2.png" | absolute_url }})
+
 What can we do in the meantime is to solve this issue where there is no
 data for the day as thus breaking the rest of the system. We could make
 a workaround where we can proxy (duplicate yesterday\'s data) as a
@@ -67,6 +69,8 @@ because there\'s no new data to categorize!
 So since we have a system in place to proxy the data, let\'s see what
 happens here \--
 
+![batch processing with proxy]({{ "/assets/eda-3.png" | absolute_url }})
+
 The customer derives no extra value from the data being proxied. Again,
 the customers demand timely reports and it is our job to deliver what
 they want even though they may not gain the extra value. The problem is
@@ -77,6 +81,8 @@ same time deliver "good enough" data.
 Now let\'s pause here from a workable system, and take a look at a
 diagram of an event-driven architecture using the same systems we are
 using above \--
+
+![with EDA architecture]({{ "/assets/eda-4.png" | absolute_url }})
 
 Note the diagram has been changed from a sequential left to right to a
 spoke-like system. Some of you might wonder what the numbers ( ①②③④ )
@@ -96,6 +102,8 @@ customer asks for a product that we haven\'t created yet, we could
 deliver without too much orchestration involving the event message
 stream in real-time (ok, ok, near-time for those nit-picking). This is
 what it might look like:
+
+![EDA architecture with new service]({{ "/assets/eda-5.png" | absolute_url }})
 
 In the example above, we plugged in a \'New Service\' (in orange) into
 the Event Message Stream and provided the customer with the value of
