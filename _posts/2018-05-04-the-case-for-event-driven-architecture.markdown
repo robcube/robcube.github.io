@@ -48,7 +48,7 @@ your back pocket.
 
 Pay special attention to all the clock icons in the workflow diagram.
 
-![batch processing looking normal]({{ "/assets/eda-1.jpg" | absolute_url }})
+![batch processing looking normal]({{ "/assets/eda-1.png" | absolute_url }})
 
 This shows that the process is batch-driven (denoted by a clock) and
 when any of the subsequent processes run, we hope that nothing can go
