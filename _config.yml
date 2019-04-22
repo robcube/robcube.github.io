@@ -13,13 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-<<<<<<< HEAD
-title: Robert Koch
-email: rob.koch@l|ive.c|om
-=======
 title: Blog about software, architecture, and anything else
 email: rob.koch@l|i|v|e.com
->>>>>>> 575b729d8fc636fa079ae32d20590de2203ed9ef
 description: >- # this means to ignore newlines until "baseurl:"
   Robert is a software architect who enjoys delving into discussions about event-driven architecture and strategies on how to get there.
 baseurl: "" # the subpath of your site, e.g. /blog
