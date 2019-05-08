@@ -10,8 +10,6 @@ Robert Koch, Big Data & Cloud Architect
 
 20 April 2019
 
-AWSome Day Denver
-
 AWSome... that’s not a misspell. It is a play on combining the word awesome and AWS (Amazon Web Service), and while I cannot tell you that AWS is awesome. You know it is! 
 
 AWSome Day is a local all-day conference that everyone attends in one giant room. No fire hazards to be seen as you would see at re:Invent in Las Vegas, but a great place for some quiet rumination, absorbing what the facilitator is saying. It was held at the Colorado Convention Center (yes, the one with the Big Blue Bear looking in!). It was held the day after tax day, a good day for it, since everyone is now breathing and hopefully anticipating their tax refunds. 
