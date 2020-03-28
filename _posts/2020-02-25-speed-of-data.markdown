@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Speed of Data"
-date:   2018-05-04 06:19:57 -0600
+date:   2020-03-25 13:37:00 -0600
 categories: discussion
 ---
 **Speed of Data**
