@@ -8,18 +8,7 @@ categories: presentations
 
 Robert Koch, Enterprise Architect
 
-20 Oct 2018
-
-<<<<<<< HEAD
-Slides during presentation
-
-Sorry there's no narrative for this one.
-
-![Slide1]({{ "/assets/DDDFall2018/DDDFall2018 (1).png" | absolute_url }})
-![Slide2]({{ "/assets/DDDFall2018/DDDFall2018 (2).png" | absolute_url }})
-=======
 Slides during presentation [Sorry there's no narrative for this one]
->>>>>>> d58ade5e929cafc00d1f5a38512f87da79cc6d3a
 
 ![Slide1]({{ "/assets/DDDFall2018/DDDFall2018-1.png" | absolute_url }})
 ![Slide2]({{ "/assets/DDDFall2018/DDDFall2018-2.png" | absolute_url }})
