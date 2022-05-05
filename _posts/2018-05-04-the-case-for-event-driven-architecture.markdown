@@ -4,11 +4,7 @@ title:  "The Case for Event-driven Architecture"
 date:   2018-05-04 06:19:57 -0600
 categories: presentations
 ---
-**The Case for Event-driven Architecture**
-
 Robert Koch, Enterprise Architect
-
-4 May 2018
 
 Whitepaper
 
