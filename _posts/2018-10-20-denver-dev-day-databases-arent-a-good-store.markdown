@@ -4,8 +4,6 @@ title:  "Databases aren't a good store these days"
 date:   2018-10-20 06:19:57 -0600
 categories: presentations
 ---
-**Databases aren't a good store these days**
-
 Robert Koch, Enterprise Architect
 
 Slides during presentation [Sorry there's no narrative for this one]
