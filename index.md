@@ -13,7 +13,3 @@ I'm an [AWS Data Hero](https://builder.aws.com) and cloud/data technology consul
 <p>Rob speaks on AI-assisted work, data platforms, and accessibility in tech for conferences, corporate events, and professional summits.</p>
 <p>For speaking inquiries, <a href="https://www.linkedin.com/in/robkoch">connect with Rob on LinkedIn</a>.</p>
 </section>
-
----
-
-### Posts
