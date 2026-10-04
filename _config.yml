@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rob Koch — AWS Data Hero, Speaker, Cloud, Data & AI Consultant
+title: Blog about software, architecture, and anything else
 email: rob.koch@l|i|v|e.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rob Koch is an AWS Data Hero and cloud/data technology consultant at Slalom, a conference speaker on AI, data platforms, and accessibility in tech, and co-chair of the CNCF Deaf and Hard of Hearing Working Group.
