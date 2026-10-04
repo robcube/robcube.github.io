@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blog about software, architecture, and anything else
+title: Rob Koch — AWS Data Hero, Speaker, Cloud, Data & AI Consultant
 email: rob.koch@l|i|v|e.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Robert is a software architect who enjoys delving into discussions about event-driven architecture and strategies on how to get there.
+  Rob Koch is an AWS Data Hero and cloud/data technology consultant at Slalom, a conference speaker on AI, data platforms, and accessibility in tech, and co-chair of the CNCF Deaf and Hard of Hearing Working Group.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://robcube.github.io" # the base hostname & protocol for your site
 twitter_username: robcube
 github_username:  robcube
 
