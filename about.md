@@ -10,6 +10,6 @@ I'm an [AWS Data Hero](https://builder.aws.com) and cloud/data technology consul
 
 I speak at conferences, corporate events, and professional summits on AI-assisted work, data platforms, and accessibility in tech. I also co-chair the [CNCF Deaf and Hard of Hearing Working Group](https://contribute.cncf.io), working to make cloud-native tech more accessible.
 
-**Want me to speak at your event?** See [Book Rob to speak](/interpreting-for-deaf-professionals-summit-2026/) on my IDP Summit 2026 resource page.
+**Book Rob to speak** — contact him at [LinkedIn](https://www.linkedin.com/in/robkoch).
 
 Find me on [LinkedIn](https://www.linkedin.com/in/robkoch) and [GitHub](https://github.com/robcube).
