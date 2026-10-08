@@ -4,6 +4,9 @@ on:
   push:
     branches: [master]
   workflow_dispatch:
+  schedule:
+    # Rebuild after the 08:00 PDT release time for each series post.
+    - cron: '30 15 12,14,16,19 10 *'
 
 permissions:
   contents: read
@@ -25,6 +28,7 @@ jobs:
         with:
           source: ./
           destination: ./_site
+          future: false
       - name: Package Pages artifact
         run: tar --dereference --hard-dereference --directory _site -cf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
       - name: Upload Pages artifact

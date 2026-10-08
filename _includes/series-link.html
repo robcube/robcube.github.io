@@ -1,0 +1,1 @@
+{%- assign series_post = site.posts | where: "slug", include.slug | first -%}{%- if series_post -%}[{{ include.label }}]({{ series_post.url | relative_url }}){%- else -%}{{ include.label }} (publishes {{ include.date }}){%- endif -%}
